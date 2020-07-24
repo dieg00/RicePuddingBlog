@@ -6,6 +6,8 @@ body {
     margin: 0;
     padding; 0;
     justify-items: center;
+    font-family:"Zilla Slab", serif;
+    font-size: 1.3em;
 }
 
 header {
