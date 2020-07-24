@@ -39,3 +39,7 @@ p {
 footer {
 	justify-self: end;
 }
+
+article{
+    margin-top: 8%;
+}
