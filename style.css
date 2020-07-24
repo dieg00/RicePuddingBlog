@@ -1,0 +1,15 @@
+body {
+	background-color: #f2f2f2;
+	display: grid;
+	grid-template-rows: 22% auto 22%;
+}
+
+header {
+	justify-self: center;
+	font-family: "Comfortaa", monospace;
+	font-size: 1.8em;
+}
+
+footer {
+	align-self: end;
+}
